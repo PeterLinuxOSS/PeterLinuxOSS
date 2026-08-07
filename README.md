@@ -13,7 +13,7 @@
 IT infrastructure and managed services at **[DATA SOFTWARE](https://datasoftware.sk)** — outsourced IT for companies across Slovakia. Off the clock I build my own hardware and automate everything that has an IP address.
 
 - 🏗️ Virtualized infrastructure on Proxmox and VMware ESXi — servers, backup, monitoring
-- 📧 Microsoft 365, Fortinet and UniFi networks
+- 🌐 Networks, firewalls, endpoints, cloud, CCTV — whatever the client actually needs
 - 🔌 Custom ESP32-S3 boards, from schematic to firmware
 - 🎓 Reading for a **BSc in Software Development** at Unicorn University, Prague
 - 🌊 Wingfoiler when the wind shows up
@@ -43,7 +43,7 @@ IT infrastructure and managed services at **[DATA SOFTWARE](https://datasoftware
 2026  🥈  SOČ — 2nd place, regional round · Electrical Eng. & Mechatronics
       🏅  SOČ — 4th place, national finals (Piešťany)
 
-2026  🥈  Strojár Inovátor — 2nd place, regional round · Mechatronics
+2026  🥈  Strojár Inovátor — 2nd place, national competition (Slovakia)
 
 2025  🤖  ROBO 2025 — line-following robot
 ```
