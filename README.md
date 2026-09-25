@@ -26,7 +26,7 @@ IT infrastructure and managed services at **[DATA SOFTWARE](https://datasoftware
 |---|---|
 | **[pneuracer2.0](https://github.com/PeterLinuxOSS/pneuracer2.0)** | Compressed-air powered RC car for the Pneuracer competition — custom dual ESP32-S3 board, 8 PCB revisions |
 | **[iSauna](https://github.com/PeterLinuxOSS/iSauna)** | Native Home Assistant integration for iSauna control units |
-| **[ha_openmower](https://github.com/PeterLinuxOSS/ha_openmower)** | Extra sensors for the OpenMower integration |
+| **[esphome-smart-sofa](https://github.com/PeterLinuxOSS/esphome-smart-sofa)** | Position-aware motorised recliner sofa — ESP32 + INA226 current-sensed end stops, no limit switches |
 | **[linefollower-ROBO2025](https://github.com/PeterLinuxOSS/linefollower-ROBO2025)** | Line-following robot for the ROBO 2025 competition |
 
 ---
