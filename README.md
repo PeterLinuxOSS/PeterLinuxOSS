@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Peter%20Rigo&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Infrastructure%20%C2%B7%20Home%20Automation%20%C2%B7%20Embedded&descAlignY=55&descSize=15" width="100%" />
 
+<a href="https://peterlinuxos.me/"><img src="https://img.shields.io/badge/peterlinuxos.me-F08A3E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="peterlinuxos.me" /></a>
 <a href="https://datasoftware.sk"><img src="https://img.shields.io/badge/datasoftware.sk-0f2027?style=for-the-badge&logo=firefoxbrowser&logoColor=white" /></a>
 
 </div>
@@ -11,6 +12,8 @@
 ## `~$ whoami`
 
 IT infrastructure and managed services at **[DATA SOFTWARE](https://datasoftware.sk)** — outsourced IT for companies across Slovakia. Off the clock I build my own hardware and automate everything that has an IP address.
+
+More about me, my competitions, wingfoil and PyroMusic: **[peterlinuxos.me](https://peterlinuxos.me/)**
 
 - 🏗️ Virtualized infrastructure on Proxmox and VMware ESXi — servers, backup, monitoring
 - 🌐 Networks, firewalls, endpoints, cloud, CCTV — whatever the client actually needs
